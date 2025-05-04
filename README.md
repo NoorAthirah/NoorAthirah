@@ -66,6 +66,9 @@ Here are some ideas to get you started:
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-339933?logo=pycharm&logoColor=white&style=for-the-badge)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-100000?logo=roblox&logoColor=white&style=for-the-badge)
+![Phaser 3](https://img.shields.io/badge/Phaser_3-2D_game_framework-ffcc00?logo=phaser&logoColor=white&style=for-the-badge)
+
 
 
 ## 📈 GitHub Stats
