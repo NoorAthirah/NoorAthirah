@@ -30,6 +30,4 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 ![Tira's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAthirah&show_icons=true&theme=radical)
 
-<--## 💬 Let's Connect!
-- LinkedIn: [Your Link]
-- Portfolio: [Your Website]-->
+
