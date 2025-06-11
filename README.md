@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🌟 Aspiring AI Engineer | Full-Stack Developer | Lifelong Learner
 
 ## 🚀 About Me
-- 🎓 PhD Student | Software & AI Enthusiast
+- 🎓 Software & AI Enthusiast
 - 💡 Passionate about AI, cloud, and full-stack development
 - 🌱 Currently working on projects using React, Laravel, and Python
 
