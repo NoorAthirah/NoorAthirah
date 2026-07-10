@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Noor Athirah
-🌟 Aspiring AI Engineer | Full-Stack Developer | Lifelong Learner
+🌟 Aspiring Microservice Developer| Full-Stack Developer | Lifelong Learner
 
 ## 🚀 About Me
 - 🎓 Software & AI Enthusiast
