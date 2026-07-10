@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 🌟 Aspiring Microservice Developer| Full-Stack Developer | Lifelong Learner
 
 ## 🚀 About Me
-- 🎓 Software & AI Enthusiast
+- 🎓 Software Enthusiast
 - 💡 Passionate about AI, cloud, and full-stack development
-- 🌱 Currently working on projects using React, Laravel, and Python
+- 🌱 Currently working on projects using React, Laravel,Spring Boot and Python
 
 ## 🛠️ Tech Stack
 **Frontend:** React, HTML, CSS  
